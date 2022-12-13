@@ -10,7 +10,7 @@
 </div>
 
 ### Connect with me:
-[![Linkedin](https://www.flaticon.com/free-icon/linkedin_174857)](https://www.linkedin.com/in/hristiqn-radichkov-286887256/)
+[![Linkedin](https://en.wikirug.org/images/5/55/Logo_Linkedin.png)](https://www.linkedin.com/in/hristiqn-radichkov-286887256/)
 &nbsp;
 
 <!--
