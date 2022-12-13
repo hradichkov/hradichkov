@@ -8,12 +8,10 @@
 
 ### Connect with me:
 
-<a href="https://github.com/hradichkov/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hradichkov&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/hradichkov/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hradichkov&repo=convoychat" />
-</a>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hradichkov&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hradichkov&theme=radical&layout=compact" />
+</div>
 
 
 <!--
