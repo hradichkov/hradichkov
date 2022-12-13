@@ -2,18 +2,16 @@
 
 🌱 I’m currently learning Java in SoftUni
 
-![Hristiqn Radichkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=hradichkov&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hradichkov&layout=compact)](https://github.com/hradichkov/github-readme-stats)
-
-### Connect with me:
-
+:chart_with_upwards_trend:
+### My GitHub history! 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=hradichkov&show_icons=true&theme=transparent" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hradichkov&langs_count=8&layout=compact" /></div>
 </div>
+
+### Connect with me:
 
 
 <!--
