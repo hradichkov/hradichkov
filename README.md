@@ -10,7 +10,7 @@
 </div>
 
 ### Connect with me:
-(https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/hristiqn-radichkov-286887256/)
+[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png))](https://www.linkedin.com/in/hristiqn-radichkov-286887256/)
 &nbsp;
 
 <!--
