@@ -10,7 +10,7 @@
 </div>
 
 ### Connect with me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/hristiqn-radichkov-286887256/)
+(https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/hristiqn-radichkov-286887256/)
 &nbsp;
 
 <!--
