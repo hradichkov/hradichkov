@@ -10,10 +10,8 @@
 </div>
 
 ### Connect with me:
-### [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/hristiqn-radichkov-286887256/ | width=”21px”)
+[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://www.flaticon.com/free-icon/linkedin_174857))](https://www.linkedin.com/in/hristiqn-radichkov-286887256/)
 &nbsp;
-
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 <!--
 **hradichkov/hradichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
