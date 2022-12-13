@@ -3,7 +3,7 @@
 🌱 I’m currently learning Java in SoftUni
 
 
-:chart_with_upwards_trend: ### My GitHub history! 
+### :chart_with_upwards_trend: My GitHub history! 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=hradichkov&show_icons=true&theme=transparent" />
 &nbsp;
