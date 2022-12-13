@@ -9,10 +9,6 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hradichkov&layout=compact" />
 </div>
 
-### Connect with me:
-[![Linkedin](https://en.wikirug.org/images/5/55/Logo_Linkedin.png)](https://www.linkedin.com/in/hristiqn-radichkov-286887256/)
-&nbsp;
-
 <!--
 **hradichkov/hradichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
