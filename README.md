@@ -8,10 +8,11 @@
 
 ### Connect with me:
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hradichkov&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hradichkov&theme=radical&layout=compact" />
-</div>
+### GitHub Stats
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=hradichkov&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+
+### GitHub Languages
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hradichkov&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 
 
 <!--
