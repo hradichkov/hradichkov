@@ -4,9 +4,11 @@
 
 
 ### 📈 GitHub stats! 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hradichkov&show_icons=true&theme=transperant" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hradichkov&layout=compact" />
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=hradichkov&show_icons=true&theme=transperant" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hradichkov&layout=compact" /></div>
 </div>
 
 ### 🏆 GitHub Trophies! 
