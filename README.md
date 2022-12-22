@@ -14,6 +14,11 @@
 ### 🏆 GitHub Trophies! 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hradichkov)](https://github.com/hradichkov/github-profile-trophy)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hristiqn-radichkov-286887256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hristiqn-radichkov-286887256" height="30" width="40" /></a>
+</p>
+
 <!--
 **hradichkov/hradichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
